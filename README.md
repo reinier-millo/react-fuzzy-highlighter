@@ -1,4 +1,6 @@
-# react-fuzzy-highlighter
+# react17-fuzzy-highlighter
+
+Fork for React17 based on [react-fuzzy-highlighter](https://www.npmjs.com/package/react-fuzzy-highlighter).
 
 [![NPM][npm]][npm-url]
 [![Build][build]][build-badge]
