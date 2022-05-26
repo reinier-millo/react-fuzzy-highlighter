@@ -1,3 +1,4 @@
+import 'jsdom-global/register';
 import { shallow } from "enzyme";
 import * as React from "react";
 import { render, unmountComponentAtNode } from "react-dom";

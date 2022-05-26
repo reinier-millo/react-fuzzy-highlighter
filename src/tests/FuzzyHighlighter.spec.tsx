@@ -1,3 +1,4 @@
+import 'jsdom-global/register';
 import { mount } from "enzyme";
 import Fuse from "fuse.js";
 import * as React from "react";
